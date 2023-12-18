@@ -28,7 +28,7 @@ document.getElementById('stars3').style.boxShadow = shadowsBig;
 let flowerCount = 0;
 
 document.addEventListener('click', function (event) {
-  const maxFlowers = 10; // Set the maximum number of flowers allowed
+  const maxFlowers = 20; // Set the maximum number of flowers allowed
 
   if (flowerCount < maxFlowers) {
     // Get the original flower

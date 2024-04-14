@@ -1,5 +1,3 @@
-/* of course ako ang ga structure but i lack in skill pa to fully make this js document */
-/* Generate random box shadow values */
 function generateRandomBoxShadow(n) {
     let boxShadow = '';
     for (let i = 0; i < n; i++) {
